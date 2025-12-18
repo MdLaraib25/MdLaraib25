@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=435&lines=Hi+I'm+Md+Laraib+Alam;DSA+%7C+Full+Stack+Developer;Future+FAANG+Engineer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=435&lines=Hi+I'm+Md+Laraib+Alam;DSA+%7C+Full+Stack+Developer;)
 
 
 <!--

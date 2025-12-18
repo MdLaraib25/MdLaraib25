@@ -1,29 +1,36 @@
 <h1 align="center">Hi 👋, I'm Md Laraib Alam</h1>
-<h3 align="center">B.Tech CSE | DSA & Full Stack Developer</h3>
+<h3 align="center">B.Tech Computer Science Engineering | Full Stack Developer | DSA Enthusiast</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0EF&center=true&vCenter=true&width=700&lines=Data+Structures+and+Algorithms;Full+Stack+Web+Development;Problem+Solving+Enthusiast;Consistent+Learner+%26+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Data+Structures+and+Algorithms;Consistent+Learner;Building+Clean+and+Scalable+Code" />
+</p>
+
+<!-- Divider Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e0e-0a4c-4a7c-bb91-6d1a2c9c4e8a.gif" width="600"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech Computer Science Engineering (2nd Year)
-- 💡 Strong focus on **Data Structures & Algorithms (Java)**
+- 💡 Strong interest in **Data Structures & Algorithms (Java)**
 - 🌐 Full Stack Web Developer (MERN)
-- 📈 Regular problem solver and project builder
+- 📈 Focused on continuous learning and problem solving
+- 🧠 Interested in building reliable and scalable software systems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
-- Java | C++ | JavaScript
+**Programming Languages**
+- Java | C | JavaScript
 
-**Frontend**
+**Frontend Development**
 - HTML | CSS | Tailwind CSS | React
 
-**Backend**
+**Backend Development**
 - Node.js | Express.js
 
 **Databases**
@@ -34,16 +41,7 @@
 
 ---
 
-## 📊 LeetCode Performance
-*(Stats visible only — profile link & username hidden)*
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Laraib025?theme=dark&font=Baloo&ext=contest" />
-</p>
-
----
-
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MdLaraib25&show_icons=true&theme=tokyonight" />
@@ -59,13 +57,11 @@
 
 ---
 
-## 🧠 Top Languages Used
+## 🧠 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdLaraib25&layout=compact&theme=tokyonight" />
 </p>
-
----
 
 ---
 
@@ -79,6 +75,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MdLaraib25&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
 
 <!--
 **MdLaraib25/MdLaraib25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

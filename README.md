@@ -67,8 +67,7 @@
 
 ## 📫 Connect With Me
 - 💼 **GitHub**: https://github.com/MdLaraib25  
-- 💼 **LinkedIn**: https://www.linkedin.com/in/md-laraib-alam-b15098321/  
-- 🐦 **X (Twitter)**: https://x.com/itslaraib786  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/md-laraib-alam-b15098321/ 
 
 ---
 

@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- 🔥 PIXEL BANNER -->
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+<!-- 🔥 CRAZY AESTHETIC BANNER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="95%" style="border-radius:12px;" />
+</p>
 
 <h1>Hey 👋 I'm Md Laraib Alam</h1>
 
@@ -41,6 +43,13 @@
 
 ---
 
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MdLaraib25&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 - ⚔️ Coding Battle Platform (real-time coding fights)
 - 📚 Tuition Platform (student-teacher system)
@@ -55,9 +64,9 @@
 
 ---
 
-### 🎵 Coding Vibes
+### ⚡ Random Dev Quote (auto changes)
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yourid&cover_image=true&theme=novatorem" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---

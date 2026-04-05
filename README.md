@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Md+Laraib+Alam" alt="Name" />
 
 <!-- ROLES TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;DSA+in+Java+%E2%9A%94%EF%B8%8F;Building+Real+Projects+%F0%9F%94%A5;Problem+Solver+%F0%9F%A7%A0;Night+Owl+Coder+%F0%9F%8C%99;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;DSA+in+Cpp+%E2%9A%94%EF%B8%8F;Building+Real+Projects+%F0%9F%94%A5;Problem+Solver+%F0%9F%A7%A0;Night+Owl+Coder+%F0%9F%8C%99;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
 
 <br/>
 

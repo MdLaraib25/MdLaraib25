@@ -25,7 +25,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
 ```java
-public class LaraibAlam {
+public class Laraib {
 
     String   name      = "Md Laraib Alam";
     String[] roles     = {"Full Stack Dev",
@@ -33,7 +33,6 @@ public class LaraibAlam {
                           "Builder"};
     String[] stack     = {"Java", "MERN",
                           "MySQL", "Tailwind"};
-    String   os        = "Linux 🐧";
     String   status    = "🚀 Cooking real projects";
     String   vibe      = "🎧 Lo-fi + Code = Zone";
     boolean  learning  = true;   // always
@@ -92,11 +91,7 @@ public class LaraibAlam {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MdLaraib25&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-</div>
 
 ---
 

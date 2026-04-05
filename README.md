@@ -1,92 +1,97 @@
 <h1 align="center">Hi 👋, I'm Md Laraib Alam</h1>
-<h3 align="center">B.Tech Computer Science Engineering | Full Stack Developer | DSA Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | DSA Enthusiast | Future FAANG Engineer</h3>
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+</p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Data+Structures+and+Algorithms;Consistent+Learner;Building+Clean+and+Scalable+Code" />
-</p>
-
-<!-- Divider Animation -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e0e-0a4c-4a7c-bb91-6d1a2c9c4e8a.gif" width="600"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;DSA+in+Java;Building+Cool+Projects;Future+FAANG+Engineer" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 B.Tech Computer Science Engineering (2nd Year)
-- 💡 Strong interest in **Data Structures & Algorithms (Java)**
-- 🌐 Full Stack Web Developer (MERN)
-- 📈 Focused on continuous learning and problem solving
-- 🧠 Interested in building reliable and scalable software systems
+## 🚀 About Me
+- 🎓 B.Tech CSE (2nd Year)
+- 💻 Focused on **DSA in Java + Full Stack Development**
+- 🧠 Love solving real-world problems with code
+- ⚡ Currently building **Coding Battle Platform & Tuition Website**
+- 🎯 Goal: Crack **FAANG-level internships**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Programming Languages**
-- Java | C | JavaScript
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,js" />
+</p>
 
-**Frontend Development**
-- HTML | CSS | Tailwind CSS | React
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+</p>
 
-**Backend Development**
-- Node.js | Express.js
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Databases**
-- MongoDB | MySQL
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-**Tools & Platforms**
-- Git | GitHub | Linux | VS Code
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdLaraib25&show_icons=true&theme=tokyonight" />
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MdLaraib25&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MdLaraib25&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MdLaraib25&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdLaraib25&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 Most Used Languages
+## 🔥 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdLaraib25&layout=compact&theme=tokyonight" />
-</p>
+🚀 **Coding Battle Platform**  
+- Compete with friends using LeetCode API  
+- Real-time rooms & leaderboard  
+
+📚 **Online Tuition Platform**  
+- Students choose teachers & join study rooms  
+- Chapter-wise booking system  
+
+💰 **Loan Application System**  
+- Interest varies based on repayment duration  
+- Secure verification system  
 
 ---
 
 ## 📫 Connect With Me
-- 💼 **GitHub**: https://github.com/MdLaraib25  
-- 💼 **LinkedIn**: https://www.linkedin.com/in/md-laraib-alam-b15098321/ 
+
+<p align="center">
+  <a href="https://github.com/MdLaraib25"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/md-laraib-alam-b15098321/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MdLaraib25&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
-
-<!--
-**MdLaraib25/MdLaraib25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

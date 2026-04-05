@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm Md Laraib Alam</h1>
+<div align="center">
+
+<h1>Hey 👋 I'm Laraib</h1>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+in+Java;Future+FAANG+Engineer" />
+</p>
+
+<img src="YOUR_PIXEL_GIF_LINK" width="90%" />
+
+</div>
 <h3 align="center">🚀 Full Stack Developer | DSA Enthusiast | Future FAANG Engineer</h3>
 
 <!-- Banner -->

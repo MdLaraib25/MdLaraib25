@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🔥 PIXEL BANNER -->
-<img src="YOUR_PIXEL_GIF_LINK" width="100%" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 
 <h1>Hey 👋 I'm Md Laraib Alam</h1>
 

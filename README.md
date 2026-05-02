@@ -33,10 +33,10 @@ public class Laraib {
                           "Builder"};
     String[] stack     = {"Java", "MERN",
                           "MySQL", "Tailwind"};
-    String   status    = "🚀 Cooking real projects";
-    String   vibe      = "🎧 Lo-fi + Code = Zone";
+    String   status    = " Cooking real projects";
+    String   vibe      = " Lo-fi + Code = Zone";
     boolean  learning  = true;   // always
-    String   fuel      = "☕ Coffee > Sleep";
+    String   fuel      = "Coffee > Sleep";
 
     void daily() {
         code(); debug(); repeat();

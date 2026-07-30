@@ -1,7 +1,6 @@
 <div align="center">
 <!-- 🏠 PIXEL DEV ROOM — THE MAIN VIBE -->
 <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="95%" />
-
 <br/>
 
 <!-- GLITCH NAME — ORBITRON STYLE -->

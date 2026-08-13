@@ -42,3 +42,39 @@ public class Laraib {
         code(); debug(); repeat();
     }
 }
+
+
+
+<div align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="370" />
+
+  
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="290" /> </div> <div align="center"> <br/>
+🌑  2:00 AM  →  still coding
+🎧  lo-fi beats  →  on loop
+☕  coffee #4  →  incoming
+🐛  that one bug  →  still alive
+🔥  pushing code  →  always
+💀  sleep?  →  never heard of it
+</div>
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=MdLaraib25&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="175" src="https://streak-stats.demolab.com?user=MdLaraib25&theme=tokyonight&hide_border=true" />
+
+</div> <br/> <div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdLaraib25&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+🐍 Contribution Snake
+<div align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+

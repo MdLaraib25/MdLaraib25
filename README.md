@@ -4,7 +4,6 @@
 <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="95%" />
 
 <br/>
-
 <!-- GLITCH NAME — ORBITRON STYLE -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Md+Laraib+Alam" alt="Name" />
 
